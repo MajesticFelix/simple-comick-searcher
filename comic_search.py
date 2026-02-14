@@ -135,7 +135,7 @@ class CacheManager:
 class EnhancedComickAPI:
     """Enhanced wrapper for the Comick.io API with robust HTTP handling"""
     
-    BASE_URL = "https://api.comick.dev"
+    BASE_URL = "https://comick-api-proxy.notaspider.dev/api"
     APP_VERSION = "1.2.0"
     CONTACT_EMAIL = "comic-search@example.com"  # Replace with your actual contact
     
